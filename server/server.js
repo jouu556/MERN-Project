@@ -16,7 +16,7 @@ const port = process.env.PORT;
 const saltRounds = 10;
 app.use(
   cors({
-    origin: "http://localhost:5174", 
+    origin: "http://localhost:5173", 
     credentials: true, // allow cookies
   })
 );
