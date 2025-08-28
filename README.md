@@ -3,11 +3,13 @@
 MONGO_URI=your_mongodb_connection_string
 PORT=4000
 SESSION_SECRET=your_secret_key
-
+///
+(MongoDB is set up locally)
+///
 #Ports
 React port : 5173
 server port : 4000
-
+///
 To start the website : 
 create and set up your mongoDB 
 create .env file with names of variables as mentioned above, 
